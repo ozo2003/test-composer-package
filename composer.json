@@ -1,5 +1,5 @@
 {
-  "name": " ozo2003/test-composer-package",
+  "name": " ozo2003\test-composer-package",
   "type": "library",
   "autoload": {
     "psr-4": {
