@@ -1,0 +1,11 @@
+{
+    "env": {
+        "TEST_PACKAGE_ENV": "working"
+    },
+    "copy-from-recipe": {
+        "src/": "%SRC_DIR%/"
+    },
+    "conflict": {
+        "doctrine/orm": "<2.15"
+    }
+}
