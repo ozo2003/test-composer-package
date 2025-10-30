@@ -1,0 +1,11 @@
+{
+  "name": " ozo2003/test-composer-package"
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+        "Ozo2003\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": false
+}
